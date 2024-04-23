@@ -22,7 +22,8 @@
    Instead, it starts with the **initialize()** function.
        The nodes' actions are completed by the message mechanism.
        For example, we fine the msg for every node. Nodes' logical action transfermation by the messager.
-       ![Messager](https://github.com/lgs001elite/vuhpdc/assets/65667947/0e4e95a4-6425-470d-aa9e-b585ac0a0dc0)
+       ![Messager](https://github.com/lgs001elite/vuhpdc/assets/65667947/a6741d85-6596-4289-9e5d-42f40903cdf6)
+
 ### 
   **msg** file define the packets content. It can be altered according to actual requirements.
 
