@@ -9,10 +9,10 @@
       It is used to define the network componets by the NED language. It is easy to grasp.
       For example, we use ICNODe.ned to define the single node's network properties.
       In addition, we can also define the statistics to collect simulation data from every node.
-      ![ICNode](https://github.com/lgs001elite/vuhpdc/assets/65667947/c5e81e47-4963-427c-93b7-56f14a6dbe15)
+   ![ICNode](https://github.com/lgs001elite/vuhpdc/assets/65667947/c5e81e47-4963-427c-93b7-56f14a6dbe15)
       we use the randGrid.ned file to define the holistic network's properties.
       For example, the number of nodes in the network.
-      ![Network](https://github.com/lgs001elite/vuhpdc/assets/65667947/9dd28ab1-b1c1-4346-9ecb-77507c6ea2c5)
+   ![Network](https://github.com/lgs001elite/vuhpdc/assets/65667947/9dd28ab1-b1c1-4346-9ecb-77507c6ea2c5)
 ## INI file
        We use INI file to define some global parameters for the simulation. 
        For example, in our setup, we can define the charging time of the node, the size of the topology, etc..
