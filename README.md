@@ -9,10 +9,10 @@
       It is used to define the network componets by the NED language. It is easy to grasp.
       For example, we use ICNODe.ned to define the single node's network properties.
       In addition, we can also define the statistics to collect simulation data from every node.
-      ![image](https://github.com/lgs001elite/vuhpdc/assets/65667947/c5e81e47-4963-427c-93b7-56f14a6dbe15)
+      ![ICNode](https://github.com/lgs001elite/vuhpdc/assets/65667947/c5e81e47-4963-427c-93b7-56f14a6dbe15)
       we use the randGrid.ned file to define the holistic network's properties.
       For example, the number of nodes in the network.
-      ![image](https://github.com/lgs001elite/vuhpdc/assets/65667947/9dd28ab1-b1c1-4346-9ecb-77507c6ea2c5)
+      ![Network](https://github.com/lgs001elite/vuhpdc/assets/65667947/9dd28ab1-b1c1-4346-9ecb-77507c6ea2c5)
 ## INI file
        We use INI file to define some global parameters for the simulation. 
        For example, in our setup, we can define the charging time of the node, the size of the topology, etc..
@@ -22,7 +22,7 @@
    Instead, it starts with the **initialize()** function.
        The nodes' actions are completed by the message mechanism.
        For example, we fine the msg for every node. Nodes' logical action transfermation by the messager.
-       ![image](https://github.com/lgs001elite/vuhpdc/assets/65667947/0e4e95a4-6425-470d-aa9e-b585ac0a0dc0)
+       ![Messager](https://github.com/lgs001elite/vuhpdc/assets/65667947/0e4e95a4-6425-470d-aa9e-b585ac0a0dc0)
 ### 
   **msg** file define the packets content. It can be altered according to actual requirements.
 
