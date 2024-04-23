@@ -1,5 +1,5 @@
 # Simulater
-   The simalater we use is [Omnetpp](https://omnetpp.org/). A popular network simulater for researchers. 
+   The simulater we use is [Omnetpp](https://omnetpp.org/). A popular network simulater for researchers. 
    The version is [5.6.2](https://github.com/omnetpp/omnetpp/releases/download/omnetpp-5.6.2/omnetpp-5.6.2-src-windows.zip).
    The host system is Windows10 Enterprise version. 
 
