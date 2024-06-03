@@ -233,5 +233,5 @@ void ICNode::determineNodesInRadioRadio()
         this->nodesInRadioRange.push_back(std::make_pair(nPtr, distance));
     }
     this->nodesInRadioRange.sort([](const std::pair<ICNode *, int> &p1, const std::pair<ICNode *, int> &p2)
-                                 { return p1.second < p2.second; });
+                                { return p1.second < p2.second; });
 }
